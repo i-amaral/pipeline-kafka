@@ -1,0 +1,2 @@
+2026-06-20 16:40:11    0 Bytes analytics/ipca/gold/_SUCCESS
+2026-06-20 16:40:10    1.3 KiB analytics/ipca/gold/part-00000-8d922caa-af49-45e1-976f-2cbdf34da59a-c000.snappy.parquet

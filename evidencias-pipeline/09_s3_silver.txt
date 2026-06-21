@@ -1,0 +1,5 @@
+2026-06-20 16:37:26    0 Bytes processed-data/ipca/silver/_SUCCESS
+2026-06-20 16:37:24  188.8 KiB processed-data/ipca/silver/part-00000-06380585-ebf2-4556-90cc-469133d697df-c000.snappy.parquet
+2026-06-20 16:37:24  189.9 KiB processed-data/ipca/silver/part-00001-06380585-ebf2-4556-90cc-469133d697df-c000.snappy.parquet
+2026-06-20 16:37:25  188.7 KiB processed-data/ipca/silver/part-00002-06380585-ebf2-4556-90cc-469133d697df-c000.snappy.parquet
+2026-06-20 16:37:26  257.2 KiB processed-data/ipca/silver/part-00003-06380585-ebf2-4556-90cc-469133d697df-c000.snappy.parquet

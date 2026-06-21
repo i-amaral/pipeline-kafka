@@ -1,0 +1,14 @@
+__consumer_offsets
+__transaction_state
+_confluent-ksql-default__command_topic
+_schemas
+default_ksql_processing_log
+docker-connect-configs
+docker-connect-offsets
+docker-connect-status
+postgres-dadostesouroipca
+postgres-dadostesouropre
+Topic: postgres-dadostesouroipca	TopicId: j9baPQ0ITs6Ne0UMzTIhZQ	PartitionCount: 1	ReplicationFactor: 1	Configs: 
+	Topic: postgres-dadostesouroipca	Partition: 0	Leader: 1	Replicas: 1	Isr: 1
+Topic: postgres-dadostesouropre	TopicId: U8mbnsMcQiW7By1cUknW2A	PartitionCount: 1	ReplicationFactor: 1	Configs: 
+	Topic: postgres-dadostesouropre	Partition: 0	Leader: 1	Replicas: 1	Isr: 1
